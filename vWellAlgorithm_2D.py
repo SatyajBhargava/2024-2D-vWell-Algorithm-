@@ -550,7 +550,7 @@ if __name__ == "__main__":
     final_start = time.perf_counter_ns()
 
     # Load the image in as a NumPy array
-    img = nib.load("Image Data//X216DoubleCroppedSlice.nii")
+    img = nib.load("X216DoubleCroppedSlice.nii")
     loaded_image = img.get_fdata()
 
     # Resample image according to resampling factor

@@ -4,7 +4,7 @@ This repository contains a 2D vessel segmentation algorithm developed for analyz
 
 ## Description
 
-This code is written as a supplement to the CMU RI Technical Report 24-33 *Segmenting Homogeneous Regions in Images using Variance Wells.* by Bhargava et al. Readers seeking a more in-depth understanding of the theory behind this code are encouraged to refer to it. This demonstration version of the code is condensed into one script for ease of use and distribution. Ongoing projects may choose to separate functions and classes based on personal preference or as needed. 
+This code is written as a supplement to the CMU RI Technical Report 24-33 *Segmenting Homogeneous Regions in Images using Variance Wells.* by Bhargava et al. Readers seeking a more in-depth understanding of the theory behind this code are encouraged to refer to the paper found [here](https://www.ri.cmu.edu/publications/segmenting-homogeneous-regions-in-images-using-variance-wells/). This demonstration version of the code is condensed into one script for ease of use and distribution. Ongoing projects may choose to separate functions and classes based on personal preference or as needed. 
 
 ## Getting Started
 
@@ -45,4 +45,4 @@ if __name__ == "__main__":
 ## Authors
 
 #### Code written by: Satyaj Bhargava
-#### Contributing authors: Jack Lorence, Ben Cohen, Minjie Wu, Howard Aizenstein, & George Stetten
+#### Contributing authors: John Lorence, Ben Cohen, Minjie Wu, Howard Aizenstein, & George Stetten
